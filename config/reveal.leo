@@ -45,15 +45,15 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
+<t tx="leo.20180902120523.10">## 4072317-電腦輔助設計實習
 
-### KMOLab
+### 40723137
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40723137](https://s40723137.github.io/cad2019/content/Develop.html/)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
+[網誌](https://s40723137.github.io/cad2019/blog/index.html)
 
 
 </t>
